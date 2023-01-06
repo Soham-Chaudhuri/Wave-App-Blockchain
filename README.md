@@ -11,3 +11,11 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# Frontend Done on Replit using React.js
+
+```https://replit.com/join/lbwnczzihp-soham-chaudhuri```
+
+# LIVE 
+
+https://waveportal-starter-project.soham-chaudhuri.repl.co/
